@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wear Phone</string>
+    <string name="pref_copyright_description">Todos os direitos reservados © 2014 Mohammad Abu-Garbeyyeh\nVer mais aplicações na Play Store</string>
+
+    <string name="pref_dark_mode_title">Tema escuro</string>
+    <string name="pref_dark_mode_summary">Activar o UI escuro, útil para ecrãs AMOLED</string>
+</resources>
