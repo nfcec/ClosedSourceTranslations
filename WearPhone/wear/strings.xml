@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wear Phone</string>
+    <string name="title_activity_phone">Phone</string>
+    <string name="title_activity_dialer">Dialer</string>
+    <string name="title_activity_recents">Recents</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_contact_details">Contact</string>
+    <string name="loading_contact">Loading…</string>
+    <string name="dialer_hint">Tap and hold for actions</string>
+    <string name="dialer_empty_number">Can\'t dial an empty number</string>
+
+</resources>
