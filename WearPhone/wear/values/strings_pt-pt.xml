@@ -9,7 +9,7 @@
     <string name="title_activity_contacts">Contactos</string>
     <string name="title_activity_contact_details">Contacto</string>
     <string name="loading_contact">A carregar…</string>
-    <string name="dialer_hint">Toque Tap and hold for actions</string>
+    <string name="dialer_hint">Toque e mantenha o toque para acções</string>
     <string name="dialer_empty_number">Impossível ligar sem número</string>
 
 </resources>
